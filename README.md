@@ -14,3 +14,6 @@ This a simple code to detect age and sex using machine learning.
 4) Run this notebook
 5) check the val_loss, accuracy
 6) optimizing the model: Try various optimizers, loss, and metrics to optimize the model.
+
+## Sample output image:
+sample output()

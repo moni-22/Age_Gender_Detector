@@ -6,3 +6,7 @@ This a simple code to detect age and sex using machine learning.
 3) Upload the image you want to detect
 4) click on the detect button
 5) view results.
+
+## To run this model by yourself:
+1) Clone this repository
+2) open the Model jupyter notebook()

@@ -9,4 +9,8 @@ This a simple code to detect age and sex using machine learning.
 
 ## To run this model by yourself:
 1) Clone this repository
-2) open the Model jupyter notebook()
+2) Download the dataset
+3) open the Model Jupyter Notebook (https://github.com/moni-22/Age_Gender_Detector/blob/main/Age%20and%20gender%20%20detection.ipynb)
+4) Run this notebook
+5) check the val_loss, accuracy
+6) optimizing the model: Try various optimizers, loss, and metrics to optimize the model.

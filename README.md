@@ -16,4 +16,4 @@ This a simple code to detect age and sex using machine learning.
 6) optimizing the model: Try various optimizers, loss, and metrics to optimize the model.
 
 ## Sample output image:
-sample output()
+sample output(https://github.com/moni-22/Age_Gender_Detector/blob/main/Screenshot%20(176).png)

@@ -1,5 +1,5 @@
 # Age_Gender_Detector
-This a simple code to detect age and sex using machine learning.
+This a simple code to detect age and sex using deep learning
 ## To run this model:
 1) Clone this repository
 2) Run the GUI file((https://github.com/moni-22/Age_Gender_Detector/blob/main/Graphical%20user%20Interface.ipynb)
